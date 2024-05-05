@@ -1,4 +1,4 @@
-# BrainOpAssignment Readme
+# MelodyVerse Full Stack App with JWT
 
 
 ## Overview
